@@ -8,7 +8,8 @@ Ajouter, dans la table Patients, les contraintes applicatives suivantes :
 
 * Le sexe doit toujours être connu et doit être égal a `F` ou `M`
 * L'état civil doit toujours être connu et doit être égal à `C`, `M`, `D` ou `V`
-* Le groupe sanguin doit être égal à `A`, `B`, `O` ou `AB` Les deux derniers caractères du compte bancaire sont le reste
+* Le groupe sanguin doit être égal à `A`, `B`, `O` ou `AB` 
+* Les deux derniers caractères du compte bancaire sont le reste
   de la division des dix premiers caractères par 97
 * Construire un jeu de commandes permettant de tester ces contraintes.
 
